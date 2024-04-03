@@ -1,2 +1,2 @@
 # Basic-Rust-Crud-SQLx-and-Postgrees
-Basic CRUD Rust using SQLx and Postgress
+Basic CRUD Rust in Terminal using SQLx and Postgress
